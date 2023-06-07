@@ -8,7 +8,7 @@ int main()
      scanf("%d", &d);
 temp=c;
 c=d;
-c=temp;
+d=temp;
 printf("C=%d", c);
 printf("D=%d", d);
 
